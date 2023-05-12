@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.DatePickerIssue" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Colors required for TimePicker. Remove them when it is migrated to Compose Material3 -->
+        <item name="colorPrimary">#FF006398</item>
+        <item name="colorPrimaryDark">#FF001D31</item>
+        <item name="colorAccent">#FF00639B</item>
+
+
+        <item name="colorSurface">#DEE3EB</item>
+        <item name="colorSurfaceVariant">#DEE3EB</item>
+        <item name="colorPrimaryContainer">#CCE5FF</item>
+        <item name="colorOnPrimaryContainer">#001D31</item>
+        <item name="colorTertiaryContainer">#EDDCFF</item>
+    </style>
+</resources>
